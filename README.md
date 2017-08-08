@@ -1,10 +1,10 @@
-# Ice - Secure Ether Vault
+# Ice - Secure Ether Vault Dapp
 
-Ice is an open source, self-addressed, single-delivery, block-locked ether vault. 
+Ice is self-addressed, single-delivery, block-locked ether vault dapp. This is the repository for the solidity contracts used in ice. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To use these contracts you must be able to compile and deploy them using solc or the integrated web ide [remix.] (http://remix.ethereum.org)
 
 ### Prerequisites
 
