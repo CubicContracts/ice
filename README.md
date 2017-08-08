@@ -9,7 +9,7 @@ To use these contracts you must be able to compile and deploy them using a solid
 
 ## Authors
 
-* **David Akers** - *Initial work* - [davidmichaelakers](https://github.com/davidmichaelakers)
+* **David Akers** - *Cubic Lead* - [davidmichaelakers](https://github.com/davidmichaelakers)
 
 ## License
 
