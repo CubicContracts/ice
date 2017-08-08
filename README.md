@@ -4,7 +4,7 @@ Ice is self-addressed, single-delivery, block-locked ether vault dapp. This is t
 
 ## Getting Started
 
-To use these contracts you must be able to compile and deploy them using solc or the integrated web ide [remix.] (http://remix.ethereum.org)
+To use these contracts you must be able to compile and deploy them using solc or the integrated web ide [remix.](http://remix.ethereum.org)
 
 ### Prerequisites
 
